@@ -15,40 +15,29 @@
 
 ---
 
-<!--
-=======================================================================
-SCREENSHOT CAPTURE GUIDE
-=======================================================================
-To add visuals, capture the following and save to docs/screenshots/:
-
-1. analyze.png   - The analyze screen with a completed DNA extraction
-                   showing the StyleDnaCard with color palette and gauges
-2. generate.png  - A generated image result with the prompt visible
-3. library.png   - The style library drawer with 3-4 style cards
-4. video.png     - The video transfer progress view or before/after
-
-For a hero GIF (docs/demo.gif):
-  Record a 15-20s flow: drop image → DNA helix loader → profile card →
-  switch to generate → select style → generate image
-
-Then uncomment the screenshot section below.
-=======================================================================
--->
-
-<!--
 <div align="center">
 <table>
 <tr>
 <td align="center"><img src="docs/screenshots/analyze.png" width="400"><br><b>Style DNA Extraction</b></td>
-<td align="center"><img src="docs/screenshots/generate.png" width="400"><br><b>Styled Image Generation</b></td>
+<td align="center"><img src="docs/screenshots/create.png" width="400"><br><b>Styled Image Generation</b></td>
 </tr>
 <tr>
-<td align="center"><img src="docs/screenshots/library.png" width="400"><br><b>Style Library</b></td>
+<td align="center"><img src="docs/screenshots/transfer.png" width="400"><br><b>Image Style Transfer</b></td>
 <td align="center"><img src="docs/screenshots/video.png" width="400"><br><b>Video Style Transfer</b></td>
 </tr>
 </table>
 </div>
--->
+
+### Video Style Transfer Examples
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="docs/screenshots/birds-pointillism.gif" width="400"><br><b>Birds — Pointillism Style</b></td>
+<td align="center"><img src="docs/screenshots/woman-vangogh.gif" width="400"><br><b>Woman — Van Gogh Style</b></td>
+</tr>
+</table>
+</div>
 
 ## Table of Contents
 
