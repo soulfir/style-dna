@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.env.example
+.DS_Store
+style_builder.db
+output/
+uploads/
+data/

@@ -1,0 +1,11 @@
+agno
+together
+pydantic
+fastapi
+uvicorn
+python-multipart
+Pillow
+python-dotenv
+sqlalchemy
+numpy
+opencv-python-headless

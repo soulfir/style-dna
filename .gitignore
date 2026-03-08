@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime / generated data
+*.db
+aesthetic-style-builder/output/
+aesthetic-style-builder/uploads/
+aesthetic-style-builder/styles.json
+aesthetic-style-builder/data/
+
+# Large binary / data files
+sample_videos/
+sample_images/
+results/
+
+# Third-party docs
+claude_docs/
+
+# Claude
+.claude/
